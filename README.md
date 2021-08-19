@@ -2,7 +2,7 @@
 
 This is a collection of materials which explain aspects of parliamentary procedure. Some of these are geared toward specific situations encounterd by my campus faculty senate or the Academic Senate of the California State University system. Others are more general and hopefully helpful for a wider audience.
 
-Many of the documents have a .pdf version for download and a markdown (.md) version which you can read in the browswer.
+Many of the documents have a .pdf version for download and a markdown (.md) version which you can read in the browswer. I'm in a long-running low intensity war with the program which creates the markdown versions. Their formatting of the markdown documents may be a bit, let's say, odd. 
 
 
 # Selected items
