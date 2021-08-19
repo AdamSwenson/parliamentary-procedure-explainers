@@ -1,11 +1,11 @@
 # Whatis
 
-This is a collection of materials which explain aspects of parliamentary procedure. Some of these are geared toward specific situations encounterd by my campus faculty senate and the Academic Senate of the California State University system as a whole. Others are more general and hopefully helpful for a wider audience.
+This is a collection of materials which explain aspects of parliamentary procedure. Some of these are geared toward specific situations encounterd by my campus faculty senate or the Academic Senate of the California State University system. Others are more general and hopefully helpful for a wider audience.
 
+Many of the documents have a .pdf version for download and a markdown (.md) version which you can read in the browswer.
 
 
 # Selected items
-Many of the documents have a .pdf version for download and a markdown (.md) version which you can read in the browswer.
 
 
 ## A friendly note unfriendly to friendly amendments
