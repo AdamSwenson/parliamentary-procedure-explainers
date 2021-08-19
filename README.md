@@ -22,7 +22,7 @@ There are no friendly amendments! Except...there sort of are. This uses the hate
 
 Sometimes a decision making body just needs to chat. This explains how to do that with a Committee of the Whole. It also suggests a way to use the Committee of the Whole in situations where it is useful to involve non-members in a discussion.
 
-[All about COWs (Committee of the Whole) (markdown)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/All%20about%20COWs%20(Committe%20of%20the%20Whole\).md)
+[All about COWs (Committee of the Whole) (markdown)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/All%20about%20COWs%20(Committe%20of%20the%20Whole).md)
 
 [All about COWs (Committee of the Whole) (pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/All%20about%20COWs%20(Committe%20of%20the%20Whole).pdf)
 
