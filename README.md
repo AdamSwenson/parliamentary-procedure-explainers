@@ -2,8 +2,6 @@
 
 This is a collection of materials which explain aspects of parliamentary procedure. Some of these are geared toward specific situations encounterd by my campus faculty senate or the Academic Senate of the California State University system. Others are more general and hopefully helpful for a wider audience.
 
-Many of the documents have a .pdf version for download and a markdown (.md) version which you can read in the browswer. I'm in a long-running low intensity war with the program which creates the markdown versions. Their formatting of the markdown documents may be a bit, let's say, odd. 
-
 
 # Selected items
 
@@ -12,17 +10,12 @@ Many of the documents have a .pdf version for download and a markdown (.md) vers
 
 There are no friendly amendments! Except...there sort of are. This uses the hateful concept of a friendly amendment to illustrate some basic principles about procedure.
 
-[A friendly note unfriendly to friendly amendments (markdown)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/A%20friendly%20note%20unfriendly%20to%20friendly%20amendments.md)
-
 [A friendly note unfriendly to friendly amendments (.pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/A%20friendly%20note%20unfriendly%20to%20friendly%20amendments.pdf)
-
 
 
 ## All about COWs (Committee of the Whole)
 
 Sometimes a decision making body just needs to chat. This explains how to do that with a Committee of the Whole. It also suggests a way to use the Committee of the Whole in situations where it is useful to involve non-members in a discussion.
-
-[All about COWs (Committee of the Whole) (markdown)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/All%20about%20COWs%20(Committe%20of%20the%20Whole).md)
 
 [All about COWs (Committee of the Whole) (pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/All%20about%20COWs%20(Committe%20of%20the%20Whole).pdf)
 
@@ -31,10 +24,31 @@ Sometimes a decision making body just needs to chat. This explains how to do tha
 
 Asking members to memorize a bunch of rules is a poor way to learn how a decision making body operates. If you understand the underlying principles, most of the rules flow more naturally. This attempts to articulate some such principles. 
 
-[Bare bones introduction to Robz (markdown)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/Bare%20bones%20introduction%20to%20Robz.md)
-
 
 [Bare bones introduction to Robz (.pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/Bare%20bones%20introduction%20to%20Robz.pdf)
+
+
+## Against consensus
+Aiming at consensus in large deliberative bodies is more likely to produce bullying than just decisions. At least according to me
+
+[Why not consensus? (.pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/Why%20not%20consensus.pdf)
+
+
+## There are no abstentions
+Abstentions aren't votes. Stop asking for them
+
+[There are no abstentions (.pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/There%20are%20no%20abstentions.pdf)
+
+
+# Scripts for orientation role play 
+
+
+## Script for orientation role play with explanations 
+[Senate procedure, a saga](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/Senate%20procedure%20role%20play%20-%20narrated.pdf)
+
+
+## Script for orientation role play which builds from easy to harder cases
+[Senate procedure, an iterated saga](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/Senate%20procedure%20role%20play%20script%20-%20iterative.pdf)
 
 
 
@@ -44,7 +58,7 @@ These materials are constant works-in-progess. I will greatly appreciate any fee
 
 
 # Whois
-I've served a 4 year sentence as my campus senate chair and several years as the parliamentarian of the Academic Senate of the California State University (ASCSU). I deeply believe that when properly used by a group whose members who all have a good understanding of the fundamentals Roberts Rules are an excellent tool for justice in group decision-making. I'm thus obnoxiously passionate about explaining them. 
+I've served a 4 year sentence as my campus senate chair and several years as the parliamentarian of the Academic Senate of the California State University (ASCSU). I deeply believe that when properly used by a group whose members who all have a good understanding of the fundamentals Robert's Rules are an excellent tool for justice in group decision-making. I'm thus obnoxiously passionate about explaining them. 
 
 I'm also a philosophy professor, so you're gonna get principles and explanations. This probably isn't the place if you're just looking for simple lists. There are plenty of excellent resources which provide those elsewhere on the internet. 
 
