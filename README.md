@@ -41,6 +41,7 @@ Abstentions aren't votes. Stop asking for them
 
 ## The evil motion to substitute
 This is not the motion you are looking for (except for the dark times in which it is).
+
 [The evil motion to substitute (.pdf)](https://github.com/AdamSwenson/parliamentary-procedure-explainers/blob/main/The%20evil%20motion%20to%20substitute.pdf)
 
 
